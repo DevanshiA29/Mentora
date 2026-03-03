@@ -51,7 +51,7 @@ Helps students prioritize study efforts by highlighting **knowledge gaps that im
 ---
 
 ## 2. Resume & Cover Letter Generator (Using Job Descriptions)
-
+Job match detector
 Generates tailored resumes and cover letters aligned with specific job descriptions.
 
 ### Input
